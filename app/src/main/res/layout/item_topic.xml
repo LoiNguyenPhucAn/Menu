@@ -8,8 +8,7 @@
         android:id="@+id/iv_topic"
         android:layout_width="64dp"
         android:layout_height="match_parent"
-        android:src="@drawable/ic_mess"
-        tools:ignore="ContentDescription" />
+        android:src="@drawable/ic_mess" />
 
     <TextView
         android:id="@+id/tv_topic"
